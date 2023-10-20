@@ -7,3 +7,4 @@ List of tutorials to follow along to
 <h1>START LOGGING ALL POTENTIAL PROJECTS AND VIDEOS HERE BUT ORGANIZE BETTER</h1>
 <h2>Reddit</h2>
 <h2>Misc</h2>
+<h2>Add in the AZ104 and SC200 lab guides</h2>
