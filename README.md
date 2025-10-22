@@ -1,3 +1,4 @@
+With labs have a write up at seperate sections: difficulties, adjustments, what I learned etc
 
 Brendan's Personal Wiki – README
 This wiki is my personal knowledge base and lab notebook. It's designed to help me stay organized and focused as I work toward certifications, career goals, and technical growth.
