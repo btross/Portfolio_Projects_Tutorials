@@ -1,19 +1,20 @@
 # 📚 Portfolio Projects & Tutorials Wiki
 
-## 🔹 https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Career-Roadmap
-Explore your cybersecurity career path with curated guidance and milestones.
+## 🔹 [Career Roadmap](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Career-Roadmap)
+Initial roadmap of working towards becoming a cloud security engineer
 
 ## 🔹 [Certification Roadmap](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Certification-Roadmap)
- foundational to advanced levels.
+ Certification roadmap for cloud security engineering
 
-## 🔹 [Cloud Labs](https://github.com/bio_Projects_Tutorials/wiki/Cloud-Labs
-Hands-on labs for AWS, Azure, and GCP environments.
+## 🔹 [Cloud Labs](https://github.com/bio_Projects_Tutorials/wiki/Cloud-Labs)
+Cloud labs focusing on AWS as primary learning platform with some additonal Azure for exposure
 
-## 🔹 [Networking Labs (GNS3)](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Networkingwork topologies and practice routing, switching, and firewall configurations.
+## 🔹 [Networking Labs (GNS3)](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Networking-Labs-(GNS3))
+Networking labs utlizing GNS3 to develop a solid understanding of networking principles for current security role and beyond
 
 ## 🔹 [Security Labs](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Security-Labs)
-ility scanning, endpoint protection, and SIEM analysis.
+***list what will be done in the lab
 
-## 🔹 [Tools](https://github.com/btross/Portfolio_Projects_T/wiki/Tools
-Essential tools for cybersecurity, networking, and automation.
+## 🔹 [Tools](https://github.com/btross/Portfolio_Projects_T/wiki/Tools)
+Additional list of tools that will be utilized or implemented into the labs
 ``
