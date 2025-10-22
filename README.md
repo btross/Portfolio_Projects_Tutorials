@@ -1,42 +1,42 @@
-# 🏗 Homelab & Cybersecurity Learning Roadmap <!-- LINK: xxxxxxxxxx -->
+# https://xxxxxxxxxx
 
 ---
 
 ## 📋 Table of Contents
-- Cloud Platforms & Labs Setup <LINK: https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Cloud-Labs#-cloud-platforms--homelab-setup-checklist-->
-- Networking Labs <!-- LINK: xxxxxxxxxx -->
-- Cybersecurity & ASM Labs <!-- LINK: xxxxxxxxxx -->
-- Security Labs <!-- LINK: xxxxxxxxxx -->
-- Certifications & Training Workflow <!-- LINK: xxxxxxxxxx -->
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
 
 ---
 
 <details>
-<summary>✅ Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 
 <details>
-<summary>🌐 Free Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx --></summary>
-- AWS Free Tier <!-- LINK: xxxxxxxxxx -->
-- Microsoft Azure Free Account <!-- LINK: xxxxxxxxxx -->
-- Google Cloud Free Tier <!-- LINK: xxxxxxxxxx -->
+<summary>https://xxxxxxxxxx</summary>
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
+- https://xxxxxxxxxx
 </details>
 
 <details>
-<summary>🛠 Cloud Simulation Tools <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - LocalStack  
 - MinIO + Terraform  
 - OpenStack or Proxmox  
 </details>
 
 <details>
-<summary>🔐 Cloud Security Learning Platforms <!-- LINK: xxxxxxxxxx --></summary>
+<summary>[🔐 Cloudxxxxxxxxx</summary>
 - Prowler  
 - CloudGoat  
 - Flaws.cloud & IAM Vulnerable  
 </details>
 
 <details>
-<summary>🏠 Homelab Integration Ideas <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - SIEM integration  
 - PowerShell/Bash automation  
 - Cloud provisioning simulation  
@@ -46,10 +46,10 @@
 ---
 
 <details>
-<summary>🧪 Networking Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 
 <details>
-<summary>🐣 Beginner Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Router & Switch Basics  
 - Static Routing  
 - DHCP  
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary>🌱 Intermediate Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - RIP & OSPF  
 - Inter-VLAN Routing  
 - ACLs  
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary>🔥 Advanced Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - EIGRP  
 - BGP  
 - GRE Tunnels  
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary>🎁 Bonus Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Wireshark  
 - Internet Simulation  
 - Network Automation  
@@ -83,31 +83,31 @@
 ---
 
 <details>
-<summary>🔐 Cybersecurity & ASM Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 
 <details>
-<summary>🛡 ASM Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Nmap + OpenVAS  
 - Mini SIEM (Wazuh/ELK)  
 - CSPM Simulation  
 </details>
 
 <details>
-<summary>⚙️ Distributed Computing & Automation <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - K3s Cluster  
 - Ansible Automation  
 - MQTT + Node-RED  
 </details>
 
 <details>
-<summary>🌐 Networking & Protocol Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Pi-Hole  
 - Suricata / Zeek IDS  
 - WireGuard VPN  
 </details>
 
 <details>
-<summary>💻 DevSecOps & Scripting <!-- LINK: xxxxxxxxxx --></summary>
+<summary>[💻ps://xxxxxxxxxx</summary>
 - CI/CD Pipelines  
 - PowerShell Remoting  
 - Python/Bash Security Scripts  
@@ -117,38 +117,35 @@
 ---
 
 <details>
-<summary>🧪 Security Labs <!-- LINK: xxxxxxxxxx --></summary>
+<summary>[🧪 Security Labs](https://>
 
 <details>
-<summary>🛡 Vulnerability Management <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - OpenVAS / Greenbone  
 - OWASP ZAP  
 - Nikto  
 </details>
 
 <details>
-<summary>🔍 SIEM & Threat Detection <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Elastic Stack  
 - Wazuh  
 - Security Onion  
 </details>
 
 <details>
-<summary>🚨 IDS/IPS & Network Monitoring <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Suricata  
 - Snort  
 - Zeek  
 </details>
 
 <details>
-<summary>🧠 Threat Intelligence <!-- LINK: xxxxxxxxxx --></summary>
-- MISP  
-- SpiderFoot  
-- OpenCTI  
+<summary>[🧠 Threat Intelligence](https://xxxxxxxxxx)</summary- OpenCTI  
 </details>
 
 <details>
-<summary>📦 Incident Response <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - TheHive  
 - Cortex  
 - Velociraptor  
@@ -156,7 +153,7 @@
 </details>
 
 <details>
-<summary>🧱 Firewall & Endpoint Security <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - pfSense  
 - OPNSense  
 - ClamAV  
@@ -167,20 +164,20 @@
 ---
 
 <details>
-<summary>📚 Certifications & Training Workflow <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 
 <details>
-<summary>🛠 Workflow <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Watch course → Practice test → Review → Repeat → Schedule exam  
 </details>
 
 <details>
-<summary>🎓 Certifications Path <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Security+, CCNA, CySA+, SC-200, CISSP, OSCP, GIAC  
 </details>
 
 <details>
-<summary>📖 Topics to Learn <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Bash, PowerShell, Python  
 - AWS/Azure Security  
 - ELK Stack, Burp Suite, Nessus  
@@ -188,18 +185,17 @@
 </details>
 
 <details>
-<summary>🔗 Links & Resources <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - GitHub Repos, ASM Guides, Open Source Tools  
 </details>
 
 <details>
-<summary>🗒 Misc Notes <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Desk setup, password manager, Trello/Notion  
 </details>
 
 <details>
-<summary>🎯 Lab Goals <!-- LINK: xxxxxxxxxx --></summary>
+<summary>https://xxxxxxxxxx</summary>
 - Hybrid lab: scanning → asset tracking → reporting  
 </details>
 </details>
-
