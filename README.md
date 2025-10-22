@@ -1,9 +1,7 @@
 
 # Cybersecurity Learning & Certification Roadmap  
-![Status](https://s.io/badge/Status-In%20Progress-yellow  
-https://img.shields.io/badge/Focus-Cloud%20Security-blue  
-![Lab](https://img.shields.io/badge/Lab-Hybrid%20Setup-green)
-## 📑 Table of Contents
+
+📑 Table of Contents
 - #-certification-training-workflow
 - #-certifications--suggested-path
 - #-topics-to-learn
@@ -15,7 +13,7 @@ https://img.shields.io/badge/Focus-Cloud%20Security-blue
 
 ---
 
-## ✅ Certification Training Workflow
+ ✅ Certification Training Workflow
 For each certification:
 1. **Watch a course**
 2. **Take a practice test**
