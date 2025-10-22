@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx -->
+- Cloud Platforms & Labs Setup <LINK: https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Cloud-Labs#-cloud-platforms--homelab-setup-checklist-->
 - Networking Labs <!-- LINK: xxxxxxxxxx -->
 - Cybersecurity & ASM Labs <!-- LINK: xxxxxxxxxx -->
 - Security Labs <!-- LINK: xxxxxxxxxx -->
