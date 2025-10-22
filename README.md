@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary>https://xxxxxxxxxx</summary>
+<Cloud Platforms and Labs>https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Cloud-Labs#-cloud-platforms--homelab-setup-checklist>
 
 <details>
 <summary>https://xxxxxxxxxx</summary>
