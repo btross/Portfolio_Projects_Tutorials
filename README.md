@@ -1,208 +1,205 @@
-# 🏗 Homelab & Cybersecurity Learning Roadmap
+# 🏗 Homelab & Cybersecurity Learning Roadmap <!-- LINK: xxxxxxxxxx -->
 
 ---
 
 ## 📋 Table of Contents
-- [Cloud Platforms & Labs Setup](#networking-labs
-- #cybersecurity--asm-labs
-- #certifications--training-workflow
+- Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx -->
+- Networking Labs <!-- LINK: xxxxxxxxxx -->
+- Cybersecurity & ASM Labs <!-- LINK: xxxxxxxxxx -->
+- Security Labs <!-- LINK: xxxxxxxxxx -->
+- Certifications & Training Workflow <!-- LINK: xxxxxxxxxx -->
 
 ---
 
-## ✅ Cloud Platforms & Labs Setup
 <details>
-<summary>🌐 Free Cloud Platforms & Labs Setup</summary>
+<summary>✅ Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx --></summary>
 
-### **AWS Free Tier**
-- [ ] Sign up for AWS Free Tier (EC2, S3, IAM, Lambda).
-- [ ] **Homelab Ideas:**
-  - [ ] Set up IAM roles and policies.
-  - [ ] Create VPC with subnets, route tables, and security groups.
-  - [ ] Deploy a basic web app and monitor with CloudWatch.
-
-### **Microsoft Azure Free Account**
-- [ ] Sign up for Azure Free Account (\$200 credit + free services).
-- [ ] **Homelab Ideas:**
-  - [ ] Configure Azure AD and RBAC.
-  - [ ] Build virtual network with NSGs and route tables.
-  - [ ] Use Defender for Cloud to simulate alerts.
-
-### **Google Cloud Free Tier**
-- [ ] Sign up for Google Cloud Free Tier (\$300 credit + free services).
-- [ ] **Homelab Ideas:**
-  - [ ] Set up IAM and service accounts.
-  - [ ] Deploy containerized app with GKE or Cloud Run.
-  - [ ] Use VPC flow logs and firewall rules.
-
+<details>
+<summary>🌐 Free Cloud Platforms & Labs Setup <!-- LINK: xxxxxxxxxx --></summary>
+- AWS Free Tier <!-- LINK: xxxxxxxxxx -->
+- Microsoft Azure Free Account <!-- LINK: xxxxxxxxxx -->
+- Google Cloud Free Tier <!-- LINK: xxxxxxxxxx -->
 </details>
 
 <details>
-<summary>🛠 Cloud Simulation Tools</summary>
-
-- [ ] **LocalStack (AWS Emulator)**: Run AWS services locally in Docker.
-- [ ] **MinIO + Terraform**: Simulate S3 storage and IaC.
-- [ ] **OpenStack or Proxmox + Cloud Images**: Deploy cloud-like infrastructure.
-
+<summary>🛠 Cloud Simulation Tools <!-- LINK: xxxxxxxxxx --></summary>
+- LocalStack  
+- MinIO + Terraform  
+- OpenStack or Proxmox  
 </details>
 
 <details>
-<summary>🔐 Cloud Security Learning Platforms</summary>
-
-- [ ] **Prowler (AWS CSPM Tool)**: Scan AWS accounts.
-- [ ] **CloudGoat**: Deploy vulnerable AWS scenarios.
-- [ ] **Flaws.cloud & IAM Vulnerable**: Practice IAM misconfigurations.
-
+<summary>🔐 Cloud Security Learning Platforms <!-- LINK: xxxxxxxxxx --></summary>
+- Prowler  
+- CloudGoat  
+- Flaws.cloud & IAM Vulnerable  
 </details>
 
 <details>
-<summary>🏠 Homelab Integration Ideas</summary>
-
-- [ ] Use SIEM (Elastic Stack) to ingest cloud logs.
-- [ ] Automate resource creation with PowerShell/Bash.
-- [ ] Integrate simulated cloud provisioning.
-
+<summary>🏠 Homelab Integration Ideas <!-- LINK: xxxxxxxxxx --></summary>
+- SIEM integration  
+- PowerShell/Bash automation  
+- Cloud provisioning simulation  
+</details>
 </details>
 
 ---
 
-## 🧪 Networking Labs
 <details>
-<summary>🐣 Beginner Labs</summary>
+<summary>🧪 Networking Labs <!-- LINK: xxxxxxxxxx --></summary>
 
-- [ ] Basic Router Configuration
-- [ ] Basic Switch Configuration
-- [ ] Static Routing
-- [ ] DHCP Server
-- [ ] NAT (PAT)
-
+<details>
+<summary>🐣 Beginner Labs <!-- LINK: xxxxxxxxxx --></summary>
+- Router & Switch Basics  
+- Static Routing  
+- DHCP  
+- NAT  
 </details>
 
 <details>
-<summary>🌱 Intermediate Labs</summary>
-
-- [ ] RIP & OSPF Routing
-- [ ] Inter-VLAN Routing
-- [ ] ACLs
-- [ ] EtherChannel
-- [ ] Port Security
-
+<summary>🌱 Intermediate Labs <!-- LINK: xxxxxxxxxx --></summary>
+- RIP & OSPF  
+- Inter-VLAN Routing  
+- ACLs  
+- EtherChannel  
 </details>
 
 <details>
-<summary>🔥 Advanced Labs</summary>
-
-- [ ] EIGRP
-- [ ] BGP
-- [ ] GRE Tunneling
-- [ ] IPSec VPN
-- [ ] HSRP/VRRP/GLBP
-
+<summary>🔥 Advanced Labs <!-- LINK: xxxxxxxxxx --></summary>
+- EIGRP  
+- BGP  
+- GRE Tunnels  
+- IPSec VPN  
 </details>
 
 <details>
-<summary>🎁 Bonus Labs</summary>
-
-- [ ] Wireshark Packet Capture
-- [ ] Simulate Internet Access
-- [ ] Network Automation (Python/Ansible)
-
+<summary>🎁 Bonus Labs <!-- LINK: xxxxxxxxxx --></summary>
+- Wireshark  
+- Internet Simulation  
+- Network Automation  
+</details>
 </details>
 
 ---
 
-## 🔐 Cybersecurity & ASM Labs
 <details>
-<summary>🛡 ASM Labs</summary>
+<summary>🔐 Cybersecurity & ASM Labs <!-- LINK: xxxxxxxxxx --></summary>
 
-- [ ] Nmap + OpenVAS Cluster
-- [ ] Mini SIEM (Wazuh/ELK)
-- [ ] Prowler-like CSPM Simulation
-- [ ] Tenable-like Vulnerability Management
-
+<details>
+<summary>🛡 ASM Labs <!-- LINK: xxxxxxxxxx --></summary>
+- Nmap + OpenVAS  
+- Mini SIEM (Wazuh/ELK)  
+- CSPM Simulation  
 </details>
 
 <details>
-<summary>⚙️ Distributed Computing & Automation</summary>
-
-- [ ] K3s Kubernetes Cluster
-- [ ] Ansible Automation Lab
-- [ ] MQTT + Node-RED IoT Security Lab
-
+<summary>⚙️ Distributed Computing & Automation <!-- LINK: xxxxxxxxxx --></summary>
+- K3s Cluster  
+- Ansible Automation  
+- MQTT + Node-RED  
 </details>
 
 <details>
-<summary>🌐 Networking & Protocol Labs</summary>
-
-- [ ] Pi-Hole DNS Sinkhole
-- [ ] Suricata or Zeek IDS
-- [ ] WireGuard VPN Mesh
+<summary>🌐 Networking & Protocol Labs <!-- LINK: xxxxxxxxxx --></summary>
+- Pi-Hole  
+- Suricata / Zeek IDS  
+- WireGuard VPN  
 </details>
 
 <details>
-<summary>💻 DevSecOps & Scripting</summary>
-
-- [ ] CI/CD Pipeline (Git + Jenkins/Drone)
-- [ ] PowerShell Remoting to Windows
-- [ ] Python/Bash Security Tools
-
+<summary>💻 DevSecOps & Scripting <!-- LINK: xxxxxxxxxx --></summary>
+- CI/CD Pipelines  
+- PowerShell Remoting  
+- Python/Bash Security Scripts  
+</details>
 </details>
 
 ---
 
-## 📚 Certifications & Training Workflow
 <details>
-<summary>🛠 Workflow</summary>
+<summary>🧪 Security Labs <!-- LINK: xxxxxxxxxx --></summary>
 
-- [ ] Watch course → Practice test → Review → Repeat → Schedule exam.
-
+<details>
+<summary>🛡 Vulnerability Management <!-- LINK: xxxxxxxxxx --></summary>
+- OpenVAS / Greenbone  
+- OWASP ZAP  
+- Nikto  
 </details>
 
 <details>
-<summary>🎓 Certifications Path</summary>
-
-- **Foundational**: Security+, CCNA  
-- **Intermediate**: CySA+, SC-200, AWS/Azure Fundamentals  
-- **Advanced**: CISSP, OSCP, GIAC  
-- **Optional**: PMP, MSCS  
-
-**Training Platforms**: Udemy, INE, Tenable University, SentinelOne, Fortinet Veterans Program.
-
+<summary>🔍 SIEM & Threat Detection <!-- LINK: xxxxxxxxxx --></summary>
+- Elastic Stack  
+- Wazuh  
+- Security Onion  
 </details>
 
 <details>
-<summary>📖 Topics to Learn</summary>
+<summary>🚨 IDS/IPS & Network Monitoring <!-- LINK: xxxxxxxxxx --></summary>
+- Suricata  
+- Snort  
+- Zeek  
+</details>
 
+<details>
+<summary>🧠 Threat Intelligence <!-- LINK: xxxxxxxxxx --></summary>
+- MISP  
+- SpiderFoot  
+- OpenCTI  
+</details>
+
+<details>
+<summary>📦 Incident Response <!-- LINK: xxxxxxxxxx --></summary>
+- TheHive  
+- Cortex  
+- Velociraptor  
+- Osquery  
+</details>
+
+<details>
+<summary>🧱 Firewall & Endpoint Security <!-- LINK: xxxxxxxxxx --></summary>
+- pfSense  
+- OPNSense  
+- ClamAV  
+- YARA  
+</details>
+</details>
+
+---
+
+<details>
+<summary>📚 Certifications & Training Workflow <!-- LINK: xxxxxxxxxx --></summary>
+
+<details>
+<summary>🛠 Workflow <!-- LINK: xxxxxxxxxx --></summary>
+- Watch course → Practice test → Review → Repeat → Schedule exam  
+</details>
+
+<details>
+<summary>🎓 Certifications Path <!-- LINK: xxxxxxxxxx --></summary>
+- Security+, CCNA, CySA+, SC-200, CISSP, OSCP, GIAC  
+</details>
+
+<details>
+<summary>📖 Topics to Learn <!-- LINK: xxxxxxxxxx --></summary>
 - Bash, PowerShell, Python  
-- Networking, AWS/Azure Security  
+- AWS/Azure Security  
 - ELK Stack, Burp Suite, Nessus  
-- GitHub Actions, Terraform, Docker/Kubernetes  
-- CIS Benchmarks, Attack Simulation, AI/ML  
-
+- Terraform, Docker/Kubernetes  
 </details>
 
 <details>
-<summary>🔗 Links & Resources</summary>
-
-- GitHub Repos: SAM Cavada, SentinelOne AI-SIEM  
-- ASM Resources: Tenable ASM Guide  
-- Books: ASM (O’Reilly)  
-- Labs: Purple Knight, pfSense  
-
+<summary>🔗 Links & Resources <!-- LINK: xxxxxxxxxx --></summary>
+- GitHub Repos, ASM Guides, Open Source Tools  
 </details>
 
 <details>
-<summary>🗒 Misc Notes</summary>
-
-- Organize desk, Bluetooth dongle, password manager  
-- Use Trello/Notion, download courses, check updates  
-
+<summary>🗒 Misc Notes <!-- LINK: xxxxxxxxxx --></summary>
+- Desk setup, password manager, Trello/Notion  
 </details>
 
 <details>
-<summary>🎯 Lab Goals</summary>
-
+<summary>🎯 Lab Goals <!-- LINK: xxxxxxxxxx --></summary>
 - Hybrid lab: scanning → asset tracking → reporting  
-- SIEM dashboards, Elastic alerts, automation  
-
+</details>
 </details>
 
