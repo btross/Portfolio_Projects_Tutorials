@@ -18,3 +18,5 @@ Networking labs utlizing GNS3 to develop a solid understanding of networking pri
 ## 🔹 [Tools](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Tools)
 Additional list of tools that will be utilized or implemented into the labs
 ``
+## 🔹 [Write Ups](https://github.com/btross/Portfolio_Projects_Tutorials/wiki/Write-Ups)
+Collection of notes. diagrams, and additional material that was learned or used in the labs and training
